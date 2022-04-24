@@ -1,65 +1,41 @@
-<h3 align ="center" > <  Hi there /> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
-  <h2 align ="center"> I am Hamza Noah :) </h2>
-  <h4 align ="center">Feel free to fork the repos, make sure you star them</h4>
-  
+<h1 align="center">Hi 👋, I'm Hamza Noah</h1>
+<h3 align="center">A passionate frontend developer from Syria</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MahmoudHassan77&label=Visitors&color=blue&style=plastic" alt="gauravsingh9356" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-noah&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-noah" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza-noah" alt="hamza-noah" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/hamzanouh197" target="blank"><img src="https://img.shields.io/twitter/follow/hamzanouh197?logo=twitter&style=for-the-badge" alt="hamzanouh197" /></a> </p>
 
-<a align="center" href="https://github.com/Hamza-Noah">
-  <img align="left" alt="Mahmoud's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+- 🔭 I’m currently working on [My Portfolio](https://hamza-noah.github.io/Portfolio/)
 
+- 🌱 I’m currently learning **Next JS**
 
-<br/>
+- 👯 I’m looking to collaborate on **React JS**
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+- 🤝 I’m looking for help with **React JS**
 
+- 👨‍💻 All of my projects are available at [https://hamza-noah.github.io/Portfolio/](https://hamza-noah.github.io/Portfolio/)
 
+- 💬 Ask me about **anything**
 
-### 👨🏻‍💻 &nbsp;About Me
-🧐 &nbsp;Interested in Software Engineering.\
-🎓 &nbsp;I'm currently working as Full Stack Developer(.Net & React) at G2K Group.\
-💡  &nbsp; I like to explore new technologies.\
-🌱 &nbsp;I'm on track for learning more about AI and DevOps.\
-✉️ &nbsp;You can send me an email at [outlook](mahmoudhassan7764@outlook.com) I'll try to respond as soon as I can.
+- 📫 How to reach me **hamza.nouh97@gmail.com**
 
-
-<img alt="Night Coding" src="https://github.com/MahmoudHassan77/MahmoudHassan77/blob/main/1yft.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-### 🤝🏻 &nbsp;Connect with Me
-
-
-<p align="center">
-<a href="https://www.linkedin.com/in/hamza-nouh-907246193/"><img src="https://img.shields.io/badge/-linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/hamzanouh197"><img src="https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white"/></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/https://codepen.io/hamza-nouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/hamza-nouh" height="30" width="40" /></a>
+<a href="https://dev.to/hamza nouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hamza nouh" height="30" width="40" /></a>
+<a href="https://twitter.com/hamzanouh197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamzanouh197" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hamza nouh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza nouh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15875041/hamza-noah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15875041/hamza-noah" height="30" width="40" /></a>
+<a href="https://codesandbox.com/hamza.nouh97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="hamza.nouh97" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-noah&show_icons=true&locale=en&layout=compact" alt="hamza-noah" /></p>
 
-<br/>
-<h3 align="center">Statistics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudHassan77&show_icons=true&show_icons=true&theme=radical" alt="github-stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudHassan77&layout=compact&show_icons=true&theme=radical" alt="top-langs" />
-</p>
-  
-  <td> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-noah&show_icons=true&locale=en" alt="hamza-noah" /></p>
 
-<div align='center'>
-  <h1 align='center'> Show some ❤️ by starring some of the repositories</h1>
-  </div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamza-noah&" alt="hamza-noah" /></p>
