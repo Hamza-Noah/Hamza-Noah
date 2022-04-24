@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zaher, a Web Developer <img width="35" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" /></h1>
+<h1 align="center">Hi, I'm Hamza, a Web Developer</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/zaherabuamr">
     <img src="https://img.shields.io/badge/-linkedin-%230966C2?style=for-the-badge&logo=linkedin&logoColor=white" />
