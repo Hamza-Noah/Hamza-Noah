@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on ... React JS
 - 🤔 I’m looking for help with ... Next JS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... [Email](hamza.nouh97@gmail.com
+- 📫 How to reach me: ... hamza.nouh97@gmail.com
 - ⚡ Fun fact: ... I am Syrian
