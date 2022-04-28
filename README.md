@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/randa-mohamed1295" target="blank"><img align="center" 
+<a href="https://www.linkedin.com/in/hamza-nouh-907246193/" target="blank"><img align="center" 
  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
- alt="randa-mohamed1295" height="30" width="40" /> randa-mohamed1295 </a>
+ alt="Hamza Nouh" height="30" width="40" />Hamza Nouh</a>
    </p>
 
 
