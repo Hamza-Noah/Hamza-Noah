@@ -1,8 +1,5 @@
 <h1 align="center">Hi, I'm Hamza, a Web Developer</h1>
 <p align="center">
-    <a href="https://www.linkedin.com/in/hamza-nouh-907246193/">
-    <img src="https://img.shields.io/badge/-linkedin-%230966C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
     <a href="https://codepen.io/hamza-nouh">
     <img src="https://img.shields.io/badge/-codepen-1C1C1C?style=for-the-badge&logo=codepen&logoColor=white" />
     </a>
@@ -17,6 +14,13 @@
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
 - ✨ Aspiring a Front-end React Developer
 - 🔭 I'm currently learning the Next Js and GraphQl
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/randa-mohamed1295" target="blank"><img align="center" 
+ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+ alt="randa-mohamed1295" height="30" width="40" /> randa-mohamed1295 </a>
+   </p>
 
 
 ## Languages and Tools 
