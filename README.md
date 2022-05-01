@@ -1,4 +1,6 @@
 <h1 align="center">Hi, I'm Hamza, a Web Developer</h1>
+- 🔍 Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/anoshaahmed)!
+- 
 <p align="center">
     <a href="https://codepen.io/hamza-nouh">
     <img src="https://img.shields.io/badge/-codepen-1C1C1C?style=for-the-badge&logo=codepen&logoColor=white" />
@@ -10,7 +12,6 @@
     <img src="https://img.shields.io/badge/-freecodecamp-393939?style=for-the-badge&logo=freecodecamp&logoColor=white" />
     </a>
 </p>
-- 🔍 Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/anoshaahmed)!
 
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
 - ✨ Aspiring a Front-end React Developer
