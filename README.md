@@ -15,7 +15,7 @@
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
 - ✨ Aspiring a Front-end React Developer
 - 🔭 I'm currently learning the Next Js and GraphQl
-- 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/Hamza-Noah">[Frontend Mentor]!</a>
+- 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/Hamza-Noah">Frontend Mentor!</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
