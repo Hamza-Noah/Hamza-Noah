@@ -9,8 +9,8 @@
     <a href="https://www.freecodecamp.org/Hamza Nouh">
     <img src="https://img.shields.io/badge/-freecodecamp-393939?style=for-the-badge&logo=freecodecamp&logoColor=white" />
     </a>
-    - 🔍 Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/anoshaahmed)!
 </p>
+- 🔍 Take a look at my projects on [Frontend Mentor](https://www.frontendmentor.io/profile/anoshaahmed)!
 
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
 - ✨ Aspiring a Front-end React Developer
