@@ -16,6 +16,7 @@
 - ✨ Aspiring a Front-end React Developer
 - 🔭 I'm currently learning the Next Js and GraphQl
 - 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/Hamza-Noah">Frontend Mentor!</a>
+- 👯 I’m looking to collaborate on Web Development projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
