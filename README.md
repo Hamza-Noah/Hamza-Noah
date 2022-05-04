@@ -17,6 +17,7 @@
 - 🔭 I'm currently learning the Next Js
 - 🔭 I’m currently working on Front-End projects: React/Next JS
 - 👯 I’m looking to collaborate on Web Development projects
+- 💬 Ask me about Jobs, and helps !!
 - 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/Hamza-Noah">Frontend Mentor!</a>
 
 <h3 align="left">Connect with me:</h3>
