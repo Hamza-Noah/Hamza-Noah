@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/hamza-nouh-907246193/" target="blank"><img align="center" 
  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
- alt="Hamza Nouh" height="30" width="40" />Hamza Nouh</a>
+ alt="Hamza Nouh" height="30" width="40" /></a>
    </p>
 
 
