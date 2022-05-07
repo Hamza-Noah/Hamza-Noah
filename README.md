@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Hamza, a Web Developer</h1>
-- 
+-An ambitious Front-End Developer with experience in creating and developing web applications that provide quality user experience and obsessed with improving web apps and finding new challenges, also I ❤️ reading new things in the web industry 📚 and sharing knowledge with my team 💬
+
+
 <p align="center">
     <a href="https://codepen.io/hamza-nouh">
     <img src="https://img.shields.io/badge/-codepen-1C1C1C?style=for-the-badge&logo=codepen&logoColor=white" />
