@@ -22,7 +22,7 @@
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
 - ✨ Aspiring a Front-end React Developer
 - 🔭 I'm currently learning the Next Js
-- 🔭 I’m currently working on Front-End projects: React/Next JS
+- 🔭 I’m currently working on Front-End projects: Angular and Typescript
 - 👯 I’m looking to collaborate on Web Development projects
 - 💬 Ask me about Jobs, and helps !!
 - 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/Hamza-Noah">Frontend Mentor!</a>
