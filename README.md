@@ -21,7 +21,7 @@
 
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
 - ✨ Aspiring a Front-end React Developer
-- 🔭 I'm currently learning the Next Js
+- 🔭 I'm currently learning Angular JS
 - 🔭 I’m currently working on Front-End projects: Angular and Typescript
 - 👯 I’m looking to collaborate on Web Development projects
 - 💬 Ask me about Jobs, and helps !!
