@@ -40,11 +40,6 @@
     <a href="https://code.visualstudio.com/" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/></a><a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30" height="35"/></a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a><a href="https://www.adobe.com/in/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png" alt="xd" width="40" height="40"/> </a></p>
 
-## Activity <img width="35" src="https://c.tenor.com/dWMRNxW7Ti4AAAAi/iota-tanglevision.gif" />
-<div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Hamza-Noah&theme=dracula&show_icons=true" />
-  <img height="185em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Noah&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
 
 ## Contribution Graph <img width="40" src="https://c.tenor.com/8Bhx4_d52goAAAAi/mic-drop-busy-bee.gif" />
 <img src="https://activity-graph.herokuapp.com/graph?username=Hamza-Noah&theme=dracula&color=B994E6&bg_color=2B2D3D" />
