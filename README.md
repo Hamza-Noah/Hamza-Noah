@@ -35,7 +35,7 @@
    </p>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hafsamubarak&theme=dark&background=000000)](https://git.io/streak-stats)<br><br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hanza-Noah&theme=dark&background=000000)](https://git.io/streak-stats)<br><br>
 [![Top Langs]
     
 ## Languages and Tools I Use:
