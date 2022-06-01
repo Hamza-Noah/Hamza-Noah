@@ -1,7 +1,7 @@
 <h1 align="center">Hamza Noah</h1>
 
 
-<h4> Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="40px"> I'm Hamza Noah👨‍💻<h4>
+<h4> Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px"> I'm Hamza Noah👨‍💻<h4>
 
 #### An ambitious Front-End Developer with experience in creating and developing web applications that provide quality user experience and obsessed with improving web apps and finding new challenges, also I ❤️ reading new things in the web industry 📚.
 
