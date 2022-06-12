@@ -21,8 +21,8 @@
 
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
 - ✨ Aspiring a Front-end React Developer
-- 🔭 I'm currently learning Angular JS
-- 🔭 I’m currently working on Front-End projects: Angular and Typescript
+- 🔭 I'm currently learning Angular JS and Typescript
+- 🔭 I’m currently working on Front-End projects: Angular and Typescript 
 - 👯 I’m looking to collaborate on Web Development projects and Open Source Projects
 - 💬 Ask me about Jobs, and helps !!
 - 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/Hamza-Noah">Frontend Mentor!</a>
