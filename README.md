@@ -25,6 +25,7 @@
 - 🔭 I’m currently working on Front-End projects: Angular and Typescript 
 - 👯 I’m looking to collaborate on Web Development projects and Open Source Projects
 - 💬 Ask me about Jobs, and helps !!
+- 👨‍💻 All of my projects are available at <a href="https://hamza-noah.github.io/Portfolio/">Portfolio</a>
 - 🐙 Developer work experience 3 months
 - 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/Hamza-Noah">Frontend Mentor!</a>
 
