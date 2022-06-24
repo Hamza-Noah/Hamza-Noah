@@ -34,7 +34,9 @@
 <a href="https://www.linkedin.com/in/hamza-nouh-907246193/" target="blank"><img align="center" 
  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
  alt="Hamza Nouh" height="30" width="40" /></a>
+ <a href="https://twitter.com/omarwaleedzenh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omarwaleedzenh1" height="30" width="40" /></a> 
    </p>
+   
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Hamza-Noah&theme=dark&background=000000)](https://git.io/streak-stats)<br><br>
