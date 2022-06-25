@@ -21,7 +21,7 @@
 
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
 - ✨ Aspiring a Front-end React Developer
-- 🔭 I'm currently learning Angular JS and Typescript
+- 🔭 I'm currently learning Angular and Typescript.
 - 🔭 I’m currently working on Front-End projects: Angular and Typescript 
 - 👯 I’m looking to collaborate on Web Development projects and Open Source Projects
 - 💬 Ask me about Jobs, and helps !!
@@ -56,4 +56,4 @@
 
 <a href="https://github.com/Hamza-Noah?tab=followers"><img src="https://img.shields.io/github/followers/zaher-aa?label=Followers&style=social" /></a>
 <img src="https://img.shields.io/github/stars/Hamza-Noah?label=stars&style=social" />
-<img src="https://komarev.com/ghpvc/?username=Hamza-Noah" />
+<img src="https://komarev.com/ghpvc/?username=Hamza-Noah"/>
