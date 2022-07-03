@@ -22,7 +22,6 @@
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
 - ✨ Aspiring a Front-end React Developer
 - 🔭 I'm currently learning Angular, Typescript and Figma.
-- 🔭 I’m currently working on Front-End projects: Angular and Typescript 
 - 👯 I’m looking to collaborate on Web Development projects and Open Source Projects
 - 💬 Ask me about Jobs, and helps !!
 - 👨‍💻 All of my projects are available at <a href="https://hamza-noah.github.io/Portfolio/">Portfolio</a>
