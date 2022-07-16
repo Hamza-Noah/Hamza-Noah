@@ -25,8 +25,9 @@
 - 👯 I’m looking to collaborate on Web Development projects and Open Source Projects
 - 💬 Ask me about Jobs, and helps !!
 - 👨‍💻 All of my projects are available at <a href="https://hamza-noah.github.io/Portfolio/">Portfolio</a>
-- 🐙 Professional work experience 3 months
+- 🐙 Professional work experience 4 months
 - 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/Hamza-Noah">Frontend Mentor!</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
