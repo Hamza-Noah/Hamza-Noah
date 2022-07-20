@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
 
-<h1 align="center">Hamza Noah</h1>
-
-
-<h4> Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30px"> I'm Hamza Noah👨‍💻<h4>
+<h1 align="center">Hamza Noah👨‍💻</h1>
 
 #### An ambitious Front-End Developer with experience in creating and developing web applications that provide quality user experience and obsessed with improving web apps and finding new challenges, also I ❤️ reading new things in the web industry 📚.
 
