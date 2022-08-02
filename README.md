@@ -23,6 +23,7 @@
 
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
 - ✨ Aspiring a Front-end React Developer
+🌸 I enjoy some Angular as well!
 - 🔭 I'm currently learning Angular, Typescript and Figma.
 - 👯 I’m looking to collaborate on Web Development projects and Open Source Projects
 - 💬 Ask me about Jobs, and helps !!
