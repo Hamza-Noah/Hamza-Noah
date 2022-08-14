@@ -7,6 +7,9 @@
 #### An ambitious Front-End Developer with experience in creating and developing web applications that provide quality user experience and obsessed with improving web apps and finding new challenges, also I ❤️ reading new things in the web industry 📚.
 
 
+If you checked my repos and found something I need to correct, please tell me. I want to improve as much as it’s possible. I’m open for any collaboration.
+
+
 
 
 <p align="center">
