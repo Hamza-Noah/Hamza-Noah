@@ -32,6 +32,7 @@ If you checked my repos and found something I need to correct, please tell me. I
 - 💬 Ask me about Jobs, and helps !!
 - 👨‍💻 All of my projects are available at <a href="https://hamza-noah.github.io/Portfolio/">Portfolio</a>
 - 🐙 Professional work experience 4 months
+- 📄 Know about my experiences
 - 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/Hamza-Noah">Frontend Mentor!</a>
 
 
