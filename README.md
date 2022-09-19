@@ -34,6 +34,7 @@ If you checked my repos and found something I need to correct, please tell me. I
 - 🐙 Professional work experience 6 months
 - 📄 Know about my experince 
 - 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/Hamza-Noah">Frontend Mentor!</a>
+- 📫 If your interested in working together, get in touch here!
 
 
 <h3 align="left">Connect with me:</h3>
