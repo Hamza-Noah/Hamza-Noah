@@ -60,7 +60,7 @@ If you checked my repos and found something I need to correct, please tell me. I
 <img src="https://activity-graph.herokuapp.com/graph?username=Hamza-Noah&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
 ## Watch my contributions get eaten by a snake 🐍
-![snake gif.dark](https://github.com/OmarZen/OmarZen/blob/main/github-user-contribution.svg)
+![snake gif.dark](https://github.com/Hamza-Noah/Hamza-Noah/blob/main/github-user-contribution.svg)
 <!-- - name: generate-snake-game-from-github-contribution-grid
   uses: Platane/snk@v2.0.0-rc.2 -->
 <!--   ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
