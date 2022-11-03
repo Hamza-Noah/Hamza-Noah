@@ -35,6 +35,7 @@ If you checked my repos and found something I need to correct, please tell me. I
 - 📄 Know about my experince <a href="https://docs.google.com/document/d/1_C9iDbTFrOrUvwKxgESrDQDx5WhMwl6Vfe2RXG02l6k/edit?usp=sharing" target="_blank">Resume</a>
 - 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/Hamza-Noah">Frontend Mentor!</a>
 - 📫 If you are interested in working together, get in touch with me!
+- ⚡ Fun fact I am a gamer Man😎
 
 
 <h3 align="left">Connect with me:</h3>
