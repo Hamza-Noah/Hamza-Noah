@@ -31,7 +31,7 @@ If you checked my repos and found something I need to correct, please tell me. I
 - 👯 I’m looking to collaborate on Web Development projects and Open Source Projects
 - 💬 Ask me about Jobs, and helps !!
 - 👨‍💻 All of my projects are available at <a href="https://hamza-noah.github.io/Portfolio/">Portfolio</a>
-- 🐙 Professional work experience 7 months
+- 🐙 Professional work experience 8 months
 - 📄 Know about my experince <a href="https://docs.google.com/document/d/1_C9iDbTFrOrUvwKxgESrDQDx5WhMwl6Vfe2RXG02l6k/edit?usp=sharing" target="_blank">Resume</a>
 - 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/Hamza-Noah">Frontend Mentor!</a>
 - 📫 If you are interested in working together, get in touch with me!
