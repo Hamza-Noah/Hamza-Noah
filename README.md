@@ -58,9 +58,6 @@ If you checked my repos and found something I need to correct, please tell me. I
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a><a href="https://www.adobe.com/in/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/adobe-xd-logo-64364E3A24-seeklogo.com.png" alt="xd" width="40" height="40"/> </a><a href="https://slack.com/"><img height="40p" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" alt="slack"></a> </p>
 
 
-## Contribution Graph <img width="40" src="https://c.tenor.com/8Bhx4_d52goAAAAi/mic-drop-busy-bee.gif" />
-<img src="https://activity-graph.herokuapp.com/graph?username=Hamza-Noah&theme=dracula&color=B994E6&bg_color=2B2D3D" />
-
 ## Statistics <img width="30" src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" />
 
 <a href="https://github.com/Hamza-Noah?tab=followers"><img src="https://img.shields.io/github/followers/zaher-aa?label=Followers&style=social" /></a>
