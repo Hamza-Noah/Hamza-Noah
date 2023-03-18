@@ -22,6 +22,9 @@ If you checked my repos and found something I need to correct, please tell me. I
     <a href="https://www.freecodecamp.org/fcc81f4a8d8-00ee-4434-a3a8-b5432098cd45">
     <img src="https://img.shields.io/badge/-freecodecamp-393939?style=for-the-badge&logo=freecodecamp&logoColor=white" />
     </a>
+     <a href="https://www.linkedin.com/in/hamza-nouh-907246193/">
+    <img src="https://img.shields.io/badge/-linkedin-%230966C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
 </p>
 
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
