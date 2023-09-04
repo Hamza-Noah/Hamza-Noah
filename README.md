@@ -28,8 +28,8 @@ If you checked my repos and found something I need to correct, please tell me. I
 </p>
 
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
-- ✨ Aspiring a Front-end React/Angular Developer 
-- 🔭 I'm currently learning React, Angular, Typescript and Figma.
+- ✨ Aspiring a Front-end React Engineer 
+- 🔭 I'm currently learning Typescript and Angualr.
 - 🌸 I enjoy some JavaScript and TypeScript as well!
 - 👯 I’m looking to collaborate on Web Development projects and Open Source Projects
 - 💬 Ask me about Jobs, and helps !!
