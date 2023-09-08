@@ -38,6 +38,7 @@ If you checked my repos and found something I need to correct, please tell me. I
 - 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/Hamza-Noah">Frontend Mentor!</a>
 - 🐙 Professional production work experience 1 year
 - 📫 If you are interested in working together, get in touch with me!
+- ⚡ Motto: Keep striving for progress, not perfection
 - ⚡ Fun fact I am a gamer Man😎
 
 
