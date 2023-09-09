@@ -39,6 +39,7 @@ If you checked my repos and found something I need to correct, please tell me. I
 - 🐙 Professional production work experience 1 year
 - 📫 If you are interested in working together, get in touch with me!
 - ⚡ Motto: Keep striving for progress, not perfection
+- 📚 I'm constantly learning new skills and striving for progress
 - ⚡ Fun fact I am a gamer Man😎
 
 
