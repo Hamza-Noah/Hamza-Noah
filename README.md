@@ -40,7 +40,7 @@ If you checked my repos and found something I need to correct, please tell me. I
 - 📫 If you are interested in working together, get in touch with me!
 - ⚡ Motto: Keep striving for progress, not perfection
 - 📚 I'm constantly learning new skills and striving for progress
-
+- 📫 How to reach me hamza.nouh97@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
