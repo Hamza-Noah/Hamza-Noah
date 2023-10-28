@@ -29,10 +29,10 @@ If you checked my repos and found something I need to correct, please tell me. I
 
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
 - ✨ Aspiring a Front-end Engineer 
-- 🔭 I'm currently learning Typescript and Angualr.
+- 🔭 I'm currently learning Typescript and Angular.
 - 🌸 I enjoy some JavaScript and TypeScript as well!
 - 👯 I’m looking to collaborate on Web Development projects and Open Source Projects
-- 💬 Ask me about Jobs, and helps !!
+- 💬 Ask me about Jobs, and help!!
 - 👨‍💻 All of my projects are available at <a href="https://hamza-noah.github.io/Portfolio/">Portfolio</a>
 - 📄 Know about my experince <a href="https://docs.google.com/document/d/1_C9iDbTFrOrUvwKxgESrDQDx5WhMwl6Vfe2RXG02l6k/edit?usp=sharing" target="_blank">Resume</a>
 - 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/Hamza-Noah">Frontend Mentor!</a>
