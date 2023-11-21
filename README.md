@@ -41,7 +41,7 @@ If you checked my repos and found something I need to correct, please tell me. I
 - ⚡ Motto: Keep striving for progress, not perfection
 - 📚 I'm constantly learning new skills and striving for progress
 - 📫 How to reach me hamza.nouh97@gmail.com
-- ⚡ Fun fact I am a gamer Man😎
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
