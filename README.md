@@ -81,7 +81,7 @@ If you checked my repos and found something I need to correct, please tell me. I
 </p>
 
 
-## Statistics <img width="30" src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" />
+## Statistics <img width="30" src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif"/>
 
 <a href="https://github.com/Hamza-Noah?tab=followers"><img src="https://img.shields.io/github/followers/zaher-aa?label=Followers&style=social"/></a>
 <img src="https://img.shields.io/github/stars/Hamza-Noah?label=stars&style=social"/>
