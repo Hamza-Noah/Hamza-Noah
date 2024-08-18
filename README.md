@@ -29,7 +29,7 @@ If you checked my repos and found something I need to correct, please tell me. I
 
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
 - ✨ Aspiring a Front-end Engineer 
-- 🔭 I'm currently learning Next.js.
+- 🔭 I'm currently learning Next.js
 - 🌸 I enjoy some JavaScript and TypeScript as well!
 - 👯 I’m looking to collaborate on Web Development projects and Open Source Projects
 - 💬 Ask me about Jobs, and help!!
