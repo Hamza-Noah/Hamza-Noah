@@ -87,7 +87,7 @@ If you checked my repos and found something I need to correct, please tell me. I
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,angular,sass,less,bootstrap,jquery,tailwind,redux,styledcomponents,materialui,gulp,vite,wordpress,vscode,visualstudio,postman,figma,git,github,photoshop,ai,xd&perline=6" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,angular,sass,less,bootstrap,jquery,tailwind,redux,styledcomponents,materialui,gulp,vite,wordpress,vscode,visualstudio,postman,figma,git,github,photoshop,ai,xd&perline=10" />
   </a>
 </p>
 
