@@ -46,7 +46,7 @@ If you checked my repos and found something I need to correct, please tell me. I
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/hamza-nouh-907246193/" target="blank"><img align="center" 
+  <a href="https://www.linkedin.com/in/hamzanouh/" target="blank"><img align="center" 
      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
      alt="Hamza Nouh" height="30" width="40" /></a>
   <a href="https://twitter.com/hamzanouh197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omarwaleedzenh1" height="30" width="40" /></a> 
