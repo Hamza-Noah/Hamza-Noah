@@ -22,7 +22,7 @@ If you checked my repos and found something I need to correct, please tell me. I
     <a href="https://www.freecodecamp.org/Hamzanouh">
     <img src="https://img.shields.io/badge/-freecodecamp-393939?style=for-the-badge&logo=freecodecamp&logoColor=white" />
     </a>
-     <a href="https://www.linkedin.com/in/hamza-nouh-907246193/">
+     <a href="https://www.linkedin.com/in/hamza-nouh">
     <img src="https://img.shields.io/badge/-linkedin-%230966C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
