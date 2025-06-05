@@ -37,7 +37,7 @@ If you checked my repos and found something I need to correct, please tell me. I
 - 📄 Know about my experince <a href="https://docs.google.com/document/d/1_C9iDbTFrOrUvwKxgESrDQDx5WhMwl6Vfe2RXG02l6k/edit?usp=sharing" target="_blank">Resume</a>
 - 🔍 Take a look at my projects on <a href="https://www.frontendmentor.io/profile/Hamza-Noah">Frontend Mentor!</a>
 - 🌱 I’m currently doing Striks on <a target="_blank" href="https://leetcode.com/">LeetCode</a>
-- 🐙 Professional  work experience 2 years
+- 🐙 Professional  work experience +2 years
 - 📫 If you are interested in working together, get in touch with me!
 - ⚡ Motto: Keep striving for progress, not perfection
 - 📚 I'm constantly learning new skills and striving for progress, not perfectionism 
